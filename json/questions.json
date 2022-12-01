@@ -1,0 +1,74 @@
+data = [
+    {
+            question: "Geografia ¿De qué país es la capital Ottawa?",
+            answers:{
+                a: "Rusia",
+                b: "Tailandia",
+                c: "Canadá",
+                d: "Japón"
+                },
+            correctAnswer: "c"
+        },    
+        {
+            question: "Historia ¿Que libros muestran lo ocurrido en la primera Guerra Mundial?",
+            answers: {
+                a: "El pianista",
+                b: "Ana Frank",
+                c: "Todas las anteriores",
+                d: "La vida es bella"
+                },
+            correctAnswer: "c"
+        },
+        {
+            question: "Música ¿A quién se le considera el Rey de Pop?",
+            answers: {
+                a: "Justin Bieber",
+                b: "The Weekends",
+                c: "Michael Jackson",
+                d: "Maroon 5"
+                },
+            correctAnswer: "c"
+        },
+        {
+            question: "Entretenimiento ¿Como se llama el protagonista de 'The Legend of Zelda'?",
+            answers: {
+                a: "Zelda",
+                b: "Navi",
+                c: "Peter Pan",
+                d: "Link"
+                },
+            correctAnswer: "d"
+        },
+        {
+            question: "Geografia ¿Cual de estás no es una de las de las 7 maravillas del mundo moderno?",
+            answers: {
+                a: "Palacio de Taj Mahal",
+                b: "El Coloso de Rodas",
+                c: "La Gran Muralla",
+                d: "Petra"
+                },
+            correctAnswer: "b"
+        },
+        {
+            question: "Historia ¿En qué año llegó Colón a América?",
+            answers: {
+                a: "1492",
+                b: "1990",
+                c: "1942",
+                d: "1873"
+                },
+            correctAnswer: "a"
+        },
+        {
+            question: "Entretenimiento ¿Quien escribio la serie de libros 'Harry Potter'?",
+            answers: {
+                a: "J.K. Rowling",
+                b: "Paulo Coelho",
+                c: "Peter Pan",
+                d: "E.L. James"
+                },
+            correctAnswer: "a"
+        }
+];
+
+
